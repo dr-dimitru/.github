@@ -8,8 +8,6 @@ We keep the packages maintained, up to date with Meteor core releases and someti
 
 https://packosphere.com - An alternative package browser to Atmosphere, provided by MCP
 
-https://meteor-community.slack.com - Join us at our **Slack** community!
-
 https://discord.gg/9GDmECsYdH - Join us at our **Discord** community!
 
 https://forums.meteor.com - Join us at the **Meteor Forums**!
