@@ -12,6 +12,6 @@ https://discord.gg/9GDmECsYdH - Join us at our **Discord** community!
 
 https://forums.meteor.com - Join us at the **Meteor Forums**!
 
-https://meteor.com - The official Meteor.js website
+https://t.me/meteorjs_eng - Join Meteor.js Group at **Telegram**
 
-https://t.me/meteorjs_eng - Meteor.js Group at **Telegram**
+https://meteor.com - The official Meteor.js website
